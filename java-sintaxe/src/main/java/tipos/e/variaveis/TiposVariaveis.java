@@ -10,7 +10,7 @@ public class TiposVariaveis {
         // casting -> pega um tipo mais abrangente e converte para um tipo mais especifico pois é o tipo correspondente
         int numero = 5;
 
-        int numero = 10;
+        //int numero = 10;
 
         System.out.println(numero);
 
