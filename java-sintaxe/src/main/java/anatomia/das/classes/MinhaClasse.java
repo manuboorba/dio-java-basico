@@ -20,7 +20,7 @@ public class MinhaClasse {
 
         int ANO_2000 = 2000;
 
-        //A variável toda escrita em maiúsculo supõe que é final
+        //A variável toda escrita em maiúsculo supõe que é final, mas além da convenção de nome é preciso usar o "final"
 
         String meuNome = "Manuela";
 
