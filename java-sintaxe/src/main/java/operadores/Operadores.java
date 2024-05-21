@@ -66,7 +66,7 @@ public class Operadores {
 
                             System.out.println(numero);// agora sim, numero virou 7
 
-                //--> ordem de precedencia conta aqui
+                //--> ordem de precedencia conta aqui!
                             System.out.println(++ numero);
 
                             boolean verdadeiro = true;
