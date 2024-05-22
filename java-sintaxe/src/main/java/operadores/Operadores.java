@@ -134,7 +134,7 @@ public class Operadores {
             System.out.println(nomeUm.equals(nomeDois));
 
 
-        // operadores relacionais
+        // operadores lógicos
 
         boolean condicao1=true;
 
