@@ -8,7 +8,9 @@ public class ExemploBreakContinue {
             System.out.println(numero);
             
         }
-        //Qual a saída no console ?
+        /** O break imprime 1 e 2 e para no 3
+         *  O continue imprime 1, 2, não imprime o 3, imprime 4 e 5
+         */
     
         }
 }
